@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortCompare", "BlairAnderson_PROG2400_Assignment03\BlairAnderson_PROG2400_Assignment03.vcxproj", "{10BA0A8F-FECB-4A61-8A76-46B49F484AE9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://w0103696.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = BlairAnderson_PROG2400_Assignment03\\BlairAnderson_PROG2400_Assignment03.vcxproj
+		SccProjectName0 = BlairAnderson_PROG2400_Assignment03
+		SccLocalPath0 = BlairAnderson_PROG2400_Assignment03
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BA0A8F-FECB-4A61-8A76-46B49F484AE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10BA0A8F-FECB-4A61-8A76-46B49F484AE9}.Debug|Win32.Build.0 = Debug|Win32
+		{10BA0A8F-FECB-4A61-8A76-46B49F484AE9}.Release|Win32.ActiveCfg = Release|Win32
+		{10BA0A8F-FECB-4A61-8A76-46B49F484AE9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
